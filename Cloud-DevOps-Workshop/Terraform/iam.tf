@@ -1,6 +1,6 @@
-provider "aws" {
-  region     = "ap-south-1"
-}
+# provider "aws" {
+#   region     = "ap-south-1"
+# }
 
 resource "aws_iam_role" "shivkumar_tf_iam_role" {
   name = "shivkumar_tf_role"
