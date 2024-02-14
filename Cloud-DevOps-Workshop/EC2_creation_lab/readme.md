@@ -5,7 +5,7 @@
 5. Select t2.micro instace
 6. Under Advanced configuration select "IAM" role created by you and add below script in user data
 #!/bin/bash
-/bin/echo "SERVER1" > /var/www/html/index.html
+/bin/echo "$hostname" > /var/www/html/index.html
 8. Click on launch instance
 
    Once you are connected to instance
