@@ -15,7 +15,7 @@ Access S3 Bucket from EC2
 
     Downlaod - aws s3 cp S3 URI .
 
-      ex. aws s3 cp s3://pratikbucket1/rds.png .
+      ex. aws s3 cp s3://pvgbucket1/rds.png .
 
     Upload - aws s3 cp local file name s3 URI
 
