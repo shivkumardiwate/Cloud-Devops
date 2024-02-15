@@ -7,7 +7,7 @@
     Give DB instance your name
     Leave master username as admin
     set admin password
-7. Under DB instance size select "db.t3.micro"
+7. Under DB instance size select "db.t2.micro"
 8. leave storage details as defualt
 9. Do not create standby instance
 10. Create new security group
