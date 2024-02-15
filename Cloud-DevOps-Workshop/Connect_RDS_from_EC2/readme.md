@@ -10,9 +10,9 @@
 
    show databases;
 
-   create database PratikDB1;
+   create database PVGDB1;
 
-   use PratikDB1;
+   use PVGDB1;
 
    create table student(id int, name varchar(255));
 
