@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "shivkumarbucket" {
-  bucket = "shivkumartestbucket"
+  bucket = "pvg-test-bucket"
 
   tags = {
     Environment = "Dev"
