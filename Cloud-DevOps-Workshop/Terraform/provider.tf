@@ -1,6 +1,6 @@
 provider "aws" {
   region  = "ap-south-1"
-  profile = "shivkumar"
+  profile = "Default"
 }
 
 ### Add Secret key here first ###
