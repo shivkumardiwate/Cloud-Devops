@@ -1,9 +1,8 @@
 1. Switch to S3 service
 2. Click on "Create Bucket"
-3. Provide a name to bucket (use lower case only)
+3. Provide a name to bucket (use lower case only without space)
 4. Keep all the settings as default
 5. Click "Create Bucket"
-
 
 Access S3 Bucket from EC2
 1. Log in to EC2 instance

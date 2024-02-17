@@ -1,8 +1,5 @@
-resource "aws_iam_role" "shivkumar_tf_iam_role" {
-  name = "shivkumar_tf_role"
-
-  # Terraform's "jsonencode" function converts a
-  # Terraform expression result to valid JSON syntax.
+resource "aws_iam_role" "Sample_tf_iam_role" {
+  name = "Sample_tf_role"
   assume_role_policy = jsonencode({
     Version = "2012-10-17"
     Statement = [

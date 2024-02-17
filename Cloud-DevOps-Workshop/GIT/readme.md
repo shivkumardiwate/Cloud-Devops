@@ -1,5 +1,4 @@
 GIT Commands:
-
 git config --global user.name "ABC XYZ"
 git config --global user.email “abcxyz@example.com”
 git init
